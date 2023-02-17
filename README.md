@@ -3,8 +3,8 @@
 Projeto realizado no curso "*Formação Engenharia de Dados: Domine Big Data!*".
 
 ## Objetivo 🎯
-- 1. Criar um produtor de dados, processar esses dados em streaming no AWS Kinesis Data Stream e criar um consumidor para estes dados.
-- 2. Criar um produtor de dados e entregá-lo para o AWS Kinesis Data Firehose, para que este armazene os dados produzidos em um bucket S3.
+1. Criar um produtor de dados, processar esses dados em streaming no AWS Kinesis Data Stream e criar um consumidor para estes dados.
+2. Criar um produtor de dados e entregá-lo para o AWS Kinesis Data Firehose, para que este armazene os dados produzidos em um bucket S3.
 
 ## Requisitos 📄
 - Credenciais de segurança da AWS (chaves de acesso);
