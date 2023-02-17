@@ -22,12 +22,8 @@ Processo: O produtor irá produzir dados, irá enviá-lo para o Kinesis Data Str
 ### 2️⃣ Segunda etapa
 O notebook para a criação de um produtor de dados está disponível no arquivo "*produtor.ipynb*", presente neste repositório;
 
-O fluxo de entrega no AWS Kinesis Data Firehose deve estar criado e vinculado ao stream de dados do AWS Kinesis Data Stream, na plataforma da AWS, conforme imagem abaixo;
+O fluxo de entrega no AWS Kinesis Data Firehose deve estar criado e vinculado ao stream de dados do AWS Kinesis Data Stream, na plataforma da AWS;
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e562d8d0-0a88-4d49-89b3-bc1f7a08c07d/Untitled.png)
-
-Ao executar o produtor, os dados serão armazenados em um bucket S3 previamente configurado junto ao Firehose, conforme imagem abaixo;
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0eba8b0-2438-49df-bbd5-4e51949ea25c/Untitled.png)
+Ao executar o produtor, os dados serão armazenados em um bucket S3 previamente configurado junto ao Firehose;
 
 O arquivo gerado pelo produtor e armazenado no bucket S3 está disponível no arquivo "*KDS-S3-n4hDk-2-2023-02-17-14-38-59-4a82c798-0b21-43db-887a-b8e2bc766ff3*", presente neste repositório.
