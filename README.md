@@ -30,4 +30,4 @@ Ao executar o produtor, os dados serão armazenados em um bucket S3 previamente 
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0eba8b0-2438-49df-bbd5-4e51949ea25c/Untitled.png)
 
-O arquivo gerado pelo produtor e armazenado no bucket S3 está disponível no arquivo "*KDS-S3-n4hDk-2-2023-02-17-14-38-59-4a82c798-0b21-43db-887a-b8e2bc766ff3*", presente neste repositório;
+O arquivo gerado pelo produtor e armazenado no bucket S3 está disponível no arquivo "*KDS-S3-n4hDk-2-2023-02-17-14-38-59-4a82c798-0b21-43db-887a-b8e2bc766ff3*", presente neste repositório.
