@@ -18,7 +18,7 @@ Projeto realizado no curso "*Formação Engenharia de Dados: Domine Big Data!*".
 - Processo: O produtor irá produzir dados, irá enviá-lo para o Kinesis Data Stream em formato JSON, e o consumidor irá consumi-lo;
 
 ### 2️⃣ Segunda etapa
-- O notebook para a criação de um produtor de dados está disponível no arquivo "*produtor.ipynb*", presente neste repositório;
-- O fluxo de entrega no AWS Kinesis Data Firehose deve estar criado e vinculado ao stream de dados do AWS Kinesis Data Stream, na plataforma da AWS;
-- Ao executar o produtor, os dados serão armazenados em um bucket S3 previamente configurado junto ao Firehose;
-- O arquivo gerado pelo produtor e armazenado no bucket S3 está disponível no arquivo "*KDS-S3-n4hDk-2-2023-02-17-14-38-59-4a82c798-0b21-43db-887a-b8e2bc766ff3*", presente neste repositório.
+1. O notebook para a criação de um produtor de dados está disponível no arquivo "*produtor.ipynb*", presente neste repositório;
+2. O fluxo de entrega no AWS Kinesis Data Firehose deve estar criado e vinculado ao stream de dados do AWS Kinesis Data Stream, na plataforma da AWS;
+3. Ao executar o produtor, os dados serão armazenados em um bucket S3 previamente configurado junto ao Firehose;
+4. O arquivo gerado pelo produtor e armazenado no bucket S3 está disponível no arquivo "*KDS-S3-n4hDk-2-2023-02-17-14-38-59-4a82c798-0b21-43db-887a-b8e2bc766ff3*", presente neste repositório.
