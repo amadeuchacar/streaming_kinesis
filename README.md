@@ -13,9 +13,9 @@ Projeto realizado no curso "*Formação Engenharia de Dados: Domine Big Data!*".
 
 ## Desenvolvimento 👨🏻‍💻
 ### 1️⃣ Primeira etapa
-- O notebook para a criação de um produtor de dados está disponível no arquivo "*produtor.ipynb*", presente neste repositório;
-- O notebook para a criação de um consumidor de dados está disponível no arquivo "*consumidor1.ipynb*", presente neste repositório;
-- Processo: O produtor irá produzir dados, irá enviá-lo para o Kinesis Data Stream em formato JSON, e o consumidor irá consumi-lo;
+1. O notebook para a criação de um produtor de dados está disponível no arquivo "*produtor.ipynb*", presente neste repositório;
+2. O notebook para a criação de um consumidor de dados está disponível no arquivo "*consumidor1.ipynb*", presente neste repositório;
+3. Processo: O produtor irá produzir dados, irá enviá-lo para o Kinesis Data Stream em formato JSON, e o consumidor irá consumi-lo;
 
 ### 2️⃣ Segunda etapa
 1. O notebook para a criação de um produtor de dados está disponível no arquivo "*produtor.ipynb*", presente neste repositório;
